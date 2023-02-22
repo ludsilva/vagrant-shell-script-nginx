@@ -8,7 +8,7 @@ O projeto contém os seguintes arquivos / estrutura:
 
 - `Vagrantfile` - tem o shell definido como provisionador; configurações de network com redirecionamento de porta para a porta 8090; com nome, cpu e memória ram pré-definidos;
 - `script.sh` - um shell script para executar os comandos de update, instalar e ativar o servidor Nginx;
-- Diretório `cep` que contém os arquivos html e js para o Via Cep.
+- Diretório `cep/` que contém os arquivos html e js para o Via Cep.
 
 - _A pasta "img" não compõe o projeto._
 
@@ -18,7 +18,7 @@ O projeto contém os seguintes arquivos / estrutura:
 
 ## Como utilizar este repositório
 
-1. Primeiro, você deve clonar este repositório com o comando `git clone https://github.com/ludsilva/vagrant-shell-script.git`
+1. Primeiro, você deve clonar este repositório com o comando: `git clone https://github.com/ludsilva/vagrant-shell-script.git`
 
 2. Para rodar este projeto localmente, você precisa ter o Vagrant instalado em sua máquina local. 
   - [Windows](https://www.youtube.com/watch?v=yFSm6TXBuDE&ab_channel=VemcomoPY) | [Linux](https://www.youtube.com/watch?v=fwKPiyWaDbU&pp=ygUQaW5zdGFsYXIgdmFncmFudA%3D%3D) | [Documentação do Vagrant](https://developer.hashicorp.com/vagrant/downloads)
