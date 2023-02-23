@@ -6,7 +6,7 @@ Este projeto tem como objetivo apresentar um exemplo simples da criação de uma
 
 O projeto contém os seguintes arquivos / estrutura:
 
-- `Vagrantfile` - tem o shell definido como provisionador; configurações de network com redirecionamento de porta para a porta 8080; com nome, cpu e memória ram pré-definidos;
+- `Vagrantfile` - tem o shell definido como provisionador; configurações de network com redirecionamento de porta para a porta 8090; com nome, cpu e memória ram pré-definidos;
 - `script.sh` - um shell script para executar os comandos de update, instalar e ativar o servidor Nginx;
 - Diretório `cep/` que contém os arquivos html e js para o Via Cep.
 
@@ -14,7 +14,7 @@ O projeto contém os seguintes arquivos / estrutura:
 
 ### Exemplo
 
-- imagem 
+![imagem de exemplo](https://github.com/ludsilva/vagrant-shell-script/blob/master/img/Via%20cep.png)
 
 ## Como utilizar este repositório
 
@@ -26,11 +26,8 @@ O projeto contém os seguintes arquivos / estrutura:
 3. Após instalado, siga com os seguintes comandos no terminal / bash dentro do repositório:
 ```
 ## Criar a instância
-
  vagrant up
-
 ## Acessar a instância via ssh
-
   vagrant ssh
 ```
 
