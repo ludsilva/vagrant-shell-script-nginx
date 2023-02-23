@@ -6,7 +6,7 @@ Este projeto tem como objetivo apresentar um exemplo simples da criação de uma
 
 O projeto contém os seguintes arquivos / estrutura:
 
-- `Vagrantfile` - tem o shell definido como provisionador; configurações de network com redirecionamento de porta para a porta 8090; com nome, cpu e memória ram pré-definidos;
+- `Vagrantfile` - tem o shell definido como provisionador; configurações de network com redirecionamento de porta para a porta 8080; com nome, cpu e memória ram pré-definidos;
 - `script.sh` - um shell script para executar os comandos de update, instalar e ativar o servidor Nginx;
 - Diretório `cep/` que contém os arquivos html e js para o Via Cep.
 
@@ -34,4 +34,4 @@ O projeto contém os seguintes arquivos / estrutura:
   vagrant ssh
 ```
 
-3. Para acessar a página do Via Cep, digite no seu navegador: `localhost:8090`
+3. Para acessar a página do Via Cep, digite no seu navegador: `localhost:8080`
