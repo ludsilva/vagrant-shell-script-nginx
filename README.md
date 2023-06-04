@@ -31,4 +31,4 @@ O projeto contém os seguintes arquivos / estrutura:
   vagrant ssh
 ```
 
-3. Para acessar a página do Via Cep, digite no seu navegador: `localhost:8080`
+4. Para acessar a página do Via Cep, digite no seu navegador: `localhost:8080`
