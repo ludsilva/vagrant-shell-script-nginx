@@ -14,11 +14,11 @@ O projeto contém os seguintes arquivos / estrutura:
 
 ### Exemplo
 
-![imagem de exemplo](https://github.com/ludsilva/vagrant-shell-script/blob/master/img/Via%20cep.png)
+![imagem de exemplo](https://github.com/ludsilva/vagrant-shell-script-nginx/blob/master/img/Via%20cep.png)
 
 ## Como utilizar este repositório
 
-1. Primeiro, você deve clonar este repositório com o comando: `git clone https://github.com/ludsilva/vagrant-shell-script.git`
+1. Primeiro, você deve clonar este repositório com o comando: `git clone https://github.com/ludsilva/vagrant-shell-script-nginx.git`
 
 2. Para rodar este projeto localmente, você precisa ter o Vagrant instalado em sua máquina local. 
   - [Windows](https://www.youtube.com/watch?v=yFSm6TXBuDE&ab_channel=VemcomoPY) | [Linux](https://www.youtube.com/watch?v=fwKPiyWaDbU&pp=ygUQaW5zdGFsYXIgdmFncmFudA%3D%3D) | [Documentação do Vagrant](https://developer.hashicorp.com/vagrant/downloads)
